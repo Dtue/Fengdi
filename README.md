@@ -1,2 +1,2 @@
-# Fengdi-CSS-Library
-A CSS library for Front-end Programer.
+# 枫荻 Fengdi
+枫荻是一个旨在为前端编程过程中简化编写过程的 CSS 层叠样式表库。
